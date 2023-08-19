@@ -5,11 +5,16 @@ Caravan insurance is a great way to protect your caravan against damage or theft
 
 In this project, the Dutch Data Mining sentimental research company has provided a dataset in which the task is prediction of a customer buying the caravan insurance. 
 We could see 348 customers tend to acquire caravan insurance out of 5822 observations to anticipate probable buyers for the caravan insurance policy from the training data. To improvise the sales and business we have approached the problem with KDD process.
-Based on our findings, we recommend that:
 
-1) People having car policy
-2) People having fire policy
-3) People having moped policies
+A technical data science approach using python was applied, but ended with huge number of features shown below in the image. Hence, proceeded with operational analytics approach.
+
+![Methodology](https://github.com/vishwanathspring22/Caravan_insurance/blob/main/Features.png?raw=true)
+
+Approaching with operational analytics, performing beta-distribution and correlation and removing socio-demographic variables and values with range, 3 policies are influencing the commercial aspect of caravan insurance.
+
+1) Number of fire policies
+2) Number of moped policies
+3) Number of car policies
 
 Are preferred for the final model and better sensitivity with data balancing of 70:30 ratio.
 With this feature set,

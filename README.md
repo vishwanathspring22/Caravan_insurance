@@ -29,3 +29,8 @@ d) Conversion rate around 5%
 e) Average duration = 10years
 
 The ROI is 25.8%
+
+IBM SPSS Modeller Modelling Technique
+
+![Methodology](https://github.com/vishwanathspring22/Caravan_insurance/blob/main/IBM%20SPSS%20Modeler.png?raw=true)
+
